@@ -4,8 +4,8 @@ Code and data for analysis of the primary metabolites data presented in the arti
 
 #### Copyright & license
 
- (C) Copyright 2017 Isai Salas Gonzalez
 
+    (C) Copyright 2017 Isai Salas Gonzalez
     This file is part of primary_metabolites_phosphate.
 
     primary_metabolites_phosphate is free software: you can redistribute it and/or modify
