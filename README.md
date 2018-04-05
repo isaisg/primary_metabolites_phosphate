@@ -1,7 +1,12 @@
 #### primary_metabolites_phosphate
-Code and data for analysis of the primary metabolites data presented in the article:
+Code and data for analysis of the primary metabolites data presented in the article:<br>
+Design of synthetic bacterial communities for predictable plant phenotypes.<br>
+http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003962
 
 
+If you utilize any resource here please cite: <br>
+**Herrera Paredes, S, T Gao, TF Law, OM Finkel, T Mucyn, PJPL Teixeira, I Salas González, ME Feltcher, MJ Powers, EA Shank, CD Jones, V Jojic, JL Dangl† and G Castrillo† (2018) Design of synthetic bacterial communities for predictable plant phenotypes. PLoS Biology 16, e2003962. doi: 10.1371/journal.pbio.2003962**
+<br>
 #### Copyright & license
 
 
